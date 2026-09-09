@@ -1,3 +1,4 @@
+/*package Practice;
 import java.util.Scanner;
 
 class KmToMeter{
@@ -6,4 +7,4 @@ class KmToMeter{
 
 
     }
-}
+}*/
