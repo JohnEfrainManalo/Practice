@@ -1,3 +1,4 @@
+package Archive;
 import java.util.Scanner;
 
 class Practice1{
